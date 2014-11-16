@@ -1,7 +1,7 @@
 {
   "name": "mocha-ui-tsexports",
   "version": "0.1.0",
-  "description": "A class based interface for defining tests on MochaJS",
+  "description": "A class based ui-style for MochaJS",
   "keywords": [
     "mocha",
     "test",
