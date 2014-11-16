@@ -1,4 +1,4 @@
-echo "Compiling typescriptTestClass.ts..."
+echo "Compiling typescript..."
 tsc typescript/*.ts --module commonjs --outDir bin
 
 echo "Running test typescriptTest..."

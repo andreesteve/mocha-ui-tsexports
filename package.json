@@ -2,9 +2,27 @@
   "name": "mocha-ui-tsexports",
   "version": "0.1.0",
   "description": "A class based interface for defining tests on MochaJS",
+  "keywords": [
+    "mocha",
+    "test",
+    "exports",
+    "typescript",
+    "class"
+  ],
+  "author": "Andre Esteve <andreesteve@gmail.com>",  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreesteve/mocha-ui-tsexports.git"
+  },
   "main": "./lib/tsexports",
   "devDependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.0.1"
-  }
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/andreesteve/mocha-ui-tsexports/master/LICENSE"
+    }
+  ]
 }
