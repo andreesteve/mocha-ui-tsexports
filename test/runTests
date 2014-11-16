@@ -1,0 +1,5 @@
+echo "Compiling typescriptTestClass.ts..."
+tsc typescript/*.ts --module commonjs --outDir bin
+
+echo "Running test typescriptTest..."
+../node_modules/.bin/mocha typescriptTest.js

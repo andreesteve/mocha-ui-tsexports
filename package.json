@@ -1,0 +1,10 @@
+{
+  "name": "mocha-ui-tsexports",
+  "version": "0.1.0",
+  "description": "A class based interface for defining tests on MochaJS",
+  "main": "./lib/tsexports",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
