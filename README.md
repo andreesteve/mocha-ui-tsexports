@@ -3,7 +3,7 @@ mocha-ui-tsexports
 
 This mocha UI addon provides a way to represent test cases using classes.
 Currently supporting [TypeScript](http://www.typescriptlang.org/) classes compiled as commonJS.
-Each class is represented as a test suite, and each method in the class is a test class.
+Each class is represented as a test suite, and each method in the class is a test case.
 
 Installation
 ------------
